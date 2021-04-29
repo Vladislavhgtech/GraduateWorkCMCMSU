@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="poster_of_movie">Постер фильма</string>
+    <string name="add_to_favourite">Добавлено в избранное</string>
+    <string name="remove_from_favourite">Удалено из избранного</string>
+    <string name="item_main">Главная</string>
+    <string name="item_favourite">Любимые</string>
+    <string name="launch_trailer">Стартовый трейлер</string>
+    <string name="app_name">Популярные фильмы</string>
+    <string name="description_poster_of_movie">Описание фильма</string>
+    <string name="top_rated">Наиболее рейтинговые</string>
+    <string name="most_popular">Самые популярные</string>
+    <string name="description_big_poster">Большой постер фильма</string>
+    <string name="test_overview">Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</string>
+    <string name="release_date">Дата выхода:</string>
+    <string name="test_rating">8.5</string>
+    <string name="description_star_icon">Значек звезды с рейтиного фильма</string>
+    <string name="title">Название:</string>
+    <string name="original_title">Оригинальное название:</string>
+    <string name="rating">Рейтинг:</string>
+    <string name="test_title">Смолфут</string>
+    <string name="test_original_title">Smallfoot</string>
+    <string name="test_release_date">2018-10-03</string>
+    <string name="overview">Обзор:</string>
+    <string name="test_trailer_title">Трейлер 1</string>
+    <string name="trailers_label">Трейлеры</string>
+    <string name="reviews">Обзор</string>
+    <string name="description_icon_launch_trailer">Icon launch trailer</string>
+    <string name="description_icon_favourite">Add/remove to/from favourite</string>
+    <string name="warning_no_internet_connection">Отсутствует интернет соединение. Попробуйте позже...</string>
+    <string name="description_reload_page">Reload page</string>
+    <string name="slow_internet_connection_warning">Медленный интернет. Попробуйте позже...</string>
+    <string name="title_activity_navigation_menu">NavigationMenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
